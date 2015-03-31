@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<section class="wrapper style3">
+  <div class="container">
+    <h2>Services</h2>
+    <div id="content">
+      {% capture services %}{% include services.md %}{% endcapture %}
+      {{ services | markdownify }}
+    </div>
+</section>

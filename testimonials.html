@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<section class="wrapper style4 special">
+  <div class="container">
+    <h2>Testimonials</h2>
+
+      {% assign counter = 0 %}
+      {% for testimonial in site.data.testimonials %}
+        {% capture modulo %}{{ counter | modulo:3 }}{% endcapture %}
+
+        {% if modulo == '0' and counter != 0 %}
+          </div>
+        {% endif %}
+        {% if modulo == '0' %}
+          <div class="row 200%">
+        {% endif %}
+
+        <div class="4u 12u$(medium)">
+          <blockquote class="testimonial">
+            <p>{{ testimonial.quote }}</p>
+            <cite>
+              <span class="image style3"><img src="{% if testimonial.image %}{{ testimonial.image }}{% else %}images/avatar.png{% endif %}" alt="" /></span>
+              <span class="name">{{ testimonial.name }}</span>
+              <span class="title">{{ testimonial.position }}</span>
+              <span class="company">{{ testimonial.company }}</span>
+            </cite>
+          </blockquote>
+        </div>
+
+        {% assign counter = counter | plus:1 %}
+      {% endfor %}
+
+    </div>
+  </div>
+</section>
