@@ -589,6 +589,12 @@
 				max-height: 112px;
 			}
 		}
+
+		&.style4 {
+			overflow: hidden;
+			display: block;
+			margin: 0 0 $size-element-margin 0;
+		}
 	}
 
 /* List */
@@ -1478,6 +1484,7 @@
 		background-repeat: no-repeat;
 		background-size: cover;
 		color: $color-accent3-fg;
+		overflow: hidden;
 
 		height: 450px;
 
