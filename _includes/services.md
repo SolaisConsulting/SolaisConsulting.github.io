@@ -18,7 +18,7 @@ eleifend donec tellus eu. Tempus convallis risus, congue suspendisse, rutrum dis
 ac arcu sem, erat nonummy nulla, tortor tellus sed. Et nulla in lectus, ac
 posuere iaculis sed lorem sit quisque.
 
-## Core Business
+## Marketing
 Sed proin cras est. Magna egestas voluptas ullamcorper suspendisse ultricies
 urna, ut elit nec amet quis integer, suspendisse diam metus, metus sed neque per
 dignissim ut sed. Adipiscing lorem pellentesque nullam magna, dui auctor,
@@ -30,7 +30,7 @@ atque, pellentesque natoque velit sit. Ultrices justo ut consequat sollicitudin
 hac lacus. Nulla fermentum viverra sem integer wisi, molestie mi amet aliquam
 gravida vitae, magna dolor sit dolor dolor lacinia.
 
-## Marketing
+## Implementation
 Ac tellus ut dolor, pede dapibus tortor augue venenatis nulla, vel sapien ac
 taciti iaculis, vestibulum donec tincidunt. Fringilla lorem nec aliquam integer
 sem velit, faucibus a placerat sem massa, non sed lobortis lacus sapien quis
