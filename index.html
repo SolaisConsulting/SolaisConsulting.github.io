@@ -16,12 +16,25 @@ layout: default
 				</ul>
 			</div>
 			<div class="secondary2">
-				<p>Right Pane Content Here!</p>
-				<!-- <div class="simpleSlider" id="sNr1" style="height:auto;">
+				<script type="text/javascript">
+					$(document).ready(function(){
+					  $('.slider').slick({
+					    infinite: true,
+							slidesToShow: 1,
+							autoplay: true,
+							arrows: false,
+							dots: true,
+  						autoplaySpeed: 5000
+					  });
+					});
+				</script>
+				<div class="slider">
 					{% for slide in site.data.slider %}
-						<img src="{{slide.image}}" alt="{{slide.alt}}" />
+						<div class="image fit">
+							<img src="{{slide.image}}" alt="{{slide.alt}}"  style="height:225px; width:auto; margin-left:auto; margin-right:auto"/>
+						</div>
 					{% endfor %}
-				</div> -->
+				</div>
 			</div>
 		</div>
 	</section>
