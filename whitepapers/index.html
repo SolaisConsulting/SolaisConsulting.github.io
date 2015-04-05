@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<section class="wrapper style3">
+  <div class="container">
+    <h2>White Papers</h2>
+    <div id="content">
+      <ul class="alt">
+        {% for post in paginator.posts %}
+        <li>
+          <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+          <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+          <p>{{ post.content | strip_html | truncatewords:30 }}</p>
+        </li>
+        {% endfor %}
+      </ul>
+
+      <div class="row">
+        <div class="12u align-center">
+          {% if paginator.previous_page %}
+          <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+          {% else %}
+          <span class="previous">Previous</span>
+          {% endif %}
+          <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+          {% if paginator.next_page %}
+          <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+          {% else %}
+          <span class="next ">Next</span>
+          {% endif %}
+        </div>
+      </div>
+
+    </div>
+</section>

@@ -10,3 +10,8 @@ github_username:  SolaisConsulting
 
 # Build settings
 markdown: kramdown
+
+# Pagination
+paginate: 10
+paginate_path: "/whitepapers/page:num/"
+permalink: /whitepapers/:title
