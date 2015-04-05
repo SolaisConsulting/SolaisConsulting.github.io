@@ -1030,6 +1030,12 @@
 				width: 50%;
 			}
 
+			.secondary2 {
+				@include wrapper-padding(6em, 4em, 0);
+				float: left;
+				width: 50%;
+			}
+
 			.secondary {
 				color: #838886;
 				float: left;
@@ -1460,7 +1466,7 @@
 /* Banner */
 
 	#banner {
-		@include wrapper-padding(9em);
+		// @include wrapper-padding(9em);
 		background-color: $color-accent3-bg;
 		background-image: url('../images/banner.jpg');
 		background-position: center center;
