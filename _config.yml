@@ -1,8 +1,8 @@
 # Site settings
 title: Claiomh Solais Consulting
 email: jcoffie@solaisconsulting.com
-description: > # Claiomh Solais Consulting, LLC .....  (This data shows up
-  in the description of the site)
+description: > # Claiomh Solais Consulting, LLC is a Management Consulting Firm located just outside Dallas, TX.
+keywords: Consulting, Solais, Dallas, Carrollton, management, marketing, Fort Worth, implementation, Claiomh
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://solaisconsulting.com" # the base hostname & protocol for your site
 twitter_username: SolaisConsult
