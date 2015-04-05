@@ -1,8 +1,4 @@
-Hey we're cool. That's all you should really need to know about {{ site.title }}.
-
-Now Hire us. :-)
-
-Okay, so really, Claiomh Solais Consulting (pronounced <kleev sol’ ish>) is a management consulting and implementation firm, servicing the Dallas - Fort Worth Metroplex.  We specialize in Business Strategy/Management Consulting, Marketing, and Implementation offerings and aim to provide our clients with integrity-based solutions, tailored to their specific business needs.  
+Claiomh Solais Consulting (pronounced <kleev, sol’ ish>) is a management consulting and implementation firm, servicing the Dallas - Fort Worth Metroplex.  We specialize in Business Strategy/Management Consulting, Marketing, and Implementation offerings and aim to provide our clients with integrity-based solutions, tailored to their specific business needs.  
 
 The story of Solais begins in celtic folklore.  The name of our firm, taken from the stories of the Claíomh Solais (literally, fiery/flaming sword), fully embodies our company values of collaboration, bravery, and never giving up.
 

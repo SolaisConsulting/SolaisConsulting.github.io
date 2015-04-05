@@ -1,34 +1,35 @@
-- name: Helen Cole
-  company: Super Awesome Company 3000
-  position: Head Honcho
-  quote: Sed et liquam porttitor mauris sit orcintio enean magna amet consequat lorem ipsum dolor sit amet!
+- name: Mr. Big Shot
+  company: Telco 2
+  position: Assistant something or other
+  quote: The members of the team have helped me countless times over the years in all things IT.  From standing up Data Centers to designing organizational strategy, optimizing our bottom line and building efficiency.
   image: images/headshotPlaceholder1.jpg
 
-- name: Gabe Miller
-  company: Magic School
-  position: Master
-  quote: Sea aperiam deserunt suscipiantur ea, eos nostrum comprehensam cu. Debet gubergren nam et. Voluptatum persequeris duo ex, vix duis invidunt ut, cu habemus laboramus tincidunt his. Sea ea vero maluisset, vis meis nonumes noluisse cu. Nec ea nusquam invenire, justo congue in est, dicat civibus inimicus nam at.
-  image: images/headshotPlaceholder2.jpg
+- name: Good Guy
+  company: Prepaid Telco
+  position: Architect of great stuff
+  quote: Joshua has helped us out over the years in analyzing our internal processes, mapping flows, building use cases, and developing models that help us extrapolate the effects to our customer base from acquisition.  Tremendous partner to have on your team.
+  image:
 
-- name: Kaitlin Lindle
-  company: Yahoo
-  position: Doctor
-  quote: Omnis iuvaret id sea. Mundi deleniti vis cu. In detracto voluptatum percipitur pro. At qui quando officiis. Delenit offendit eu pro.
+- name: Someone Here
+  company: SomeCo, Inc
+  position: Process Architect
+  quote: I frequently find myself consulting with Claiohm Solais Consulting, just to make sure I have things right.  They have garnered a position of trust in my organization and we go to them first for all of our needs.
   image: images/headshotPlaceholder3.jpg
 
-- name: Shrek
-  company: Verizon
-  position: Monster
-  quote: Eu appetere conclusionemque per. Ei per apeirian invenire, ad populo oporteat antiopam mei. Eruditi postulant mei no, pri euismod perfecto et. Id eum epicurei volutpat.
+- name: Random Cit Izen
+  company: Feels on Wheels, LLC
+  position: Founder
+  quote: Joshua and Huy care more about our company than we ever though possible.  They care about how we do things today, develop plans on how we should do them tomorrow, and, in the process, make sure we understand and enjoy what we do.
+  image:
 
-- name: Helen Cole
-  company: Super Awesome Company 3000
-  position: Head Honcho
-  quote: Sed et liquam porttitor mauris sit orcintio enean magna amet consequat lorem ipsum dolor sit amet!
-  image: images/headshotPlaceholder1.jpg
+- name: Izgot Catz
+  company: Puuuurrfectttion
+  position: Flowdryer
+  quote: It's hard to believe we only came up with the idea for our groowing service 6 months ago.  Now, thanks for the CSC team, we have over 100 repeat clients, with plans to expand into the dog grooming market.  Thanks, CSC!
+  image:
 
-- name: Gabe Miller
-  company: Magic School
-  position: Master
-  quote: Sea aperiam deserunt suscipiantur ea, eos nostrum comprehensam cu. Debet gubergren nam et. Voluptatum persequeris duo ex, vix duis invidunt ut, cu habemus laboramus tincidunt his. Sea ea vero maluisset, vis meis nonumes noluisse cu. Nec ea nusquam invenire, justo congue in est, dicat civibus inimicus nam at.
-  image: images/headshotPlaceholder2.jpg
+- name: Hooz Dat
+  company: no ideer
+  position: There's no such thing as the mob
+  quote: Business doesn't have to be run at the detriment of the employees.  Thanks to Solais for stepping in and showing myself and the rest of the management group that developing our employees makes our business more fun to work at and simultaneously increases our appeal to clients.
+  image:
