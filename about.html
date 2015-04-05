@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<section class="wrapper style3">
+  <div class="container">
+    <h2>About {{ site.title }}</h2>
+    <div id="content">
+      {% capture about %}{% include about.md %}{% endcapture %}
+      {{ about | markdownify }}
+    </div>
+</section>
