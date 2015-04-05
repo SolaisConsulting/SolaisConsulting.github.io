@@ -40,6 +40,10 @@
 		&:hover {
 			text-decoration: none;
 		}
+
+		&.alt {
+			text-decoration: none;
+		}
 	}
 
 	strong, b {
@@ -1535,5 +1539,12 @@
 					background-color: $color-accent1-bg;
 				}
 			}
+		}
+	}
+
+/* Links */
+	a {
+		.alt {
+			text-decoration: none;
 		}
 	}
