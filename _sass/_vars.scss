@@ -48,16 +48,16 @@
 	$font-weight-heading-bold:	700;
 
 // Color.
-	$color-bg:					#f5f5f5;
-	$color-fg:					#868686;
-	$color-fg-bold:				#7f7f7f;
-	$color-fg-light:			#A5A5a5;
+	$color-bg:					#e5e6e6;
+	$color-fg:					#275590;
+	$color-fg-bold:				#0E3C77;
+	$color-fg-light:			#416FAA;
 	$color-border:				rgba(144,144,144,0.25);
 	$color-border-bg:			rgba(144,144,144,0.075);
 	$color-border2:				rgba(144,144,144,0.5);
 	$color-border2-bg:			rgba(144,144,144,0.2);
 
-	$color-accent1-bg:			#f06862;
+	$color-accent1-bg:			#0E3C77;
 	$color-accent1-fg-bold:		#ffffff;
 	$color-accent1-fg:			mix($color-accent1-bg, $color-accent1-fg-bold, 25%);
 	$color-accent1-fg-light:	mix($color-accent1-bg, $color-accent1-fg-bold, 40%);
@@ -66,7 +66,7 @@
 	$color-accent1-border2:		$color-accent1-fg-bold;
 	$color-accent1-border2-bg:	rgba(255,255,255,0.2);
 
-	$color-accent2-bg:			#7f7e93;
+	$color-accent2-bg:			#275590;
 	$color-accent2-fg-bold:		#ffffff;
 	$color-accent2-fg:			mix($color-accent2-bg, $color-accent2-fg-bold, 25%);
 	$color-accent2-fg-light:	mix($color-accent2-bg, $color-accent2-fg-bold, 40%);
