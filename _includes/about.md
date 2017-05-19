@@ -1,4 +1,4 @@
-The story of Solais originates in celtic folklore.  The name of our firm, taken from the stories of the Claíomh Solais (literally, fiery/flaming sword), fully embodies our company values of collaboration, bravery, and never giving up.
+The story of Solais originates in celtic folklore.  The name of our firm, taken from the stories of the Claíomh Solais (literally, fiery/flaming sword), fully embodies our company values of innovation, collaboration, bravery, and and a scrappy determination to never give up.
 
 The folk tales involving the Claíomh Solais generally compel the hero to perform three dire tasks, assisted along the way by partners/helpers.  During this adventure, the hero faces a giant that cannot be defeated except by secret means, as his fiery Claíomh Solais is not enough to ensure certain victory.  This adversary conceals his secret and the hero must determine how to overcome his deadly foe with the aide of his fellow characters, attacking the newly exposed vulnerability.  
 
