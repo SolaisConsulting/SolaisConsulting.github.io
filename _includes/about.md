@@ -8,4 +8,4 @@ At Claiomh Solais Consulting, we understand that the same Big Firm framework of 
 
 Every solution, every recommended direction, and every project is designed to make the client successful.  You don't have to second-guess our motives because success for us is making our clients successful.  This unique culture of trust is what sets us apart.
 
-We lead innovation through Integrity, Honesty, and Culture.
+We lead <b>Innovation</b> through <b>Integrity</b>, <b>Honesty</b>, and <b>Culture</b>.
